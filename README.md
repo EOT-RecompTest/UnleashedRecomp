@@ -1,7 +1,7 @@
 # EdgeOfTime Runtime Test
 
-This directory contains a copy of the current runtime used by Unleashed Recompiled.
-It can serve as a starting point for integrating XenonRecomp output from
+The `Test` directory contains a copy of the current runtime used by Unleashed Recompiled.
+It will serve as a starting point for integrating XenonRecomp output from
 *Spider-Man: Edge of Time*.
 
 All files under `EdgeOfTimeRuntime` mirror the structure of the runtime inside the
